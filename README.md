@@ -4,4 +4,4 @@ I saw this simple, but cool loader animation and decided to make it in SwiftUI a
 
 Really happy with how it looks, here's a gif with the result: 
 
-https://i.imgur.com/HHz0avx.gif
+![Animation result](result.gif)
